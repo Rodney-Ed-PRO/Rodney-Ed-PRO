@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rodney-Ed-PRO
 - 👀 I’m interested in Data Analytics - Analysis, Science, and Engineering
 - 🌱 I’m currently learning Python, SQL, Tableau, Statistics, and Spanish
-- 💞️ I’m looking to collaborate on Data Analytic Projects 
+- 💞️ I’m looking to collaborate on Data Analytics Projects 
 - 📫 How to reach me: to be determined...
 
 <!---
